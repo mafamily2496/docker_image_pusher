@@ -1,1 +1,2 @@
 lmsysorg/sglang
+vllm/vllm-openai
