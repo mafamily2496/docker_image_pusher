@@ -1,2 +1,3 @@
 lmsysorg/sglang
 vllm/vllm-openai
+docker.io/library/python:3.11-slim
